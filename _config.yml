@@ -79,7 +79,7 @@ analytics:
 
 
 # Site Author
-# El menu de la izquierda
+
 author:
   name             : "Alejandro Montenegro-Montero, Ph.D."
   avatar           : "profile.png"
@@ -87,7 +87,7 @@ author:
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.cl/citations?user=PiMdG1EAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
