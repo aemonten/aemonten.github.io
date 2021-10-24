@@ -53,13 +53,15 @@
     {% endif %}
     
      <p> <i>{{ post.citation }}</i></p>
+     <p>
     {% if post.paperurl %}
-      <p><a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
+      <a href="{{ post.paperurl }}">[PDF]</a>
     {% endif %}
 
     {% if post.pubmedid %}
-      <p><a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ post.pubmedid }}">[PubMed]</a></p>
+        <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ post.pubmedid }}">[PubMed]</a>
     {% endif %}
+    </p>
 
   </article>
 </div>
