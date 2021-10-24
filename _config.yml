@@ -79,8 +79,9 @@ analytics:
 
 
 # Site Author
+# El menu de la izquierda
 author:
-  name             : "Your Sidebar Name"
+  name             : "Alejandro Montenegro-Montero, Ph.D."
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
