@@ -53,15 +53,15 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p> <i>{{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}<i></u></a></p>
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
+      <p> {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
     {% if post.pubmedid %}
-      <p> <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ post.pubmedid }}">PubMed</a></p>
+      <p> <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ post.pubmedid }}">[PubMed]</a></p>
     {% endif %}
 
   </article>
