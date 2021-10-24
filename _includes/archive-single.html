@@ -60,5 +60,9 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+    {% if post.pubmedid %}
+      <p> <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ post.pubmedid }}">PubMed</a></p>
+    {% endif %}
+
   </article>
 </div>
