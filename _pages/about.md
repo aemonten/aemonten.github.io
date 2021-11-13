@@ -12,7 +12,7 @@ I’m Alejandro Montenegro-Montero, a molecular biologist currently working as a
 
 I did my Ph.D. and subsequent postdoctoral work at the P. Universidad Católica de Chile, Chile. After that, I did a short postdoctoral stay at the University of Massachusetts Medical School, USA, before joining Wiley.
 
-For 3 years, I was the Chief Editor of *Health Science Reports*, a general medical journal. Currently, I’m a Scientific Editor at *Current Protocols*, handling both molecular biology and toxicology manuscripts, and I work with multiple corporate partners to develop free tools and resources for researchers.
+For 3 years, I was the Chief Editor of *Health Science Reports*, a general medical journal. Currently, I’m a Scientific Editor at *Current Protocols*, leading the molecular biology and toxicology sections, and I work with multiple corporate partners to develop free tools and resources for researchers.
 
 In addition to my editorial role, I’m a Squad Captain in Wiley’s Integrity in Publishing Group, where we advise colleagues and external editors on publication ethics issues, and support them in conducting investigations of ethical concerns.
 
