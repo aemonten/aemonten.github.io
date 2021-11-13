@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-<div align="justify"> I’m Alejandro Montenegro-Montero, a molecular biologist currently working as a Scientific Editor at John Wiley & Sons, Inc. My research was focused on gene expression regulation, specifically, on the characterization of transcriptional regulatory networks in eukaryotes. During my Ph.D., I studied gene regulation in response to stressful conditions, using the filamentous fungus *N. crassa* as a research system. In addition, I focused on how the circadian clock controls daily rhythms in gene expression in this organism.
+I’m Alejandro Montenegro-Montero, a molecular biologist currently working as a Scientific Editor at John Wiley & Sons, Inc. My research was focused on gene expression regulation, specifically, on the characterization of transcriptional regulatory networks in eukaryotes. During my Ph.D., I studied gene regulation in response to stressful conditions, using the filamentous fungus *N. crassa* as a research system. In addition, I focused on how the circadian clock controls daily rhythms in gene expression in this organism.
 
 I did my Ph.D. and subsequent postdoctoral work at the P. Universidad Católica de Chile, Chile. After that, I did a short postdoctoral stay at the University of Massachusetts Medical School, USA, before joining Wiley.
 
@@ -20,4 +20,4 @@ In addition to my editorial role, I’m a Squad Captain in Wiley’s Integrity i
 
 I am also the Scientific Chair of the biennial ["Molecular Biosystems" Conference on Eukaryotic Gene Regulation & Functional Genomics](http://www.molbiosystems.com/), the leading conference in the field in the region.
 
-Lastly, I help researchers by providing **manuscript editing services**. If you are interested, please [reach out](mailto:aemonten@gmail.com).</div>
+Lastly, I help researchers by providing **manuscript editing services**. If you are interested, please [reach out](mailto:aemonten@gmail.com).
