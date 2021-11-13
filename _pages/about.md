@@ -18,6 +18,6 @@ For 3 years, I was the Chief Editor of *Health Science Reports*, a general medic
 
 In addition to my editorial role, I’m a Squad Captain in Wiley’s Integrity in Publishing Group, where we advise colleagues and external editors on publication ethics issues, and support them in conducting investigations of ethical concerns.
 
-I am also the Scientific Chair of the biennial "Molecular Biosystems" Conference on Eukaryotic Gene Regulation & Functional Genomics <a href="http://www.molbiosystems.com">(http://www.molbiosystems.com)</a>, the leading conference in the field in the region.
+I'm also the Scientific Chair of the biennial "Molecular Biosystems" Conference on Eukaryotic Gene Regulation & Functional Genomics <a href="http://www.molbiosystems.com">(http://www.molbiosystems.com)</a>, the leading conference in the field in the region.
 
 Lastly, I help researchers by providing **manuscript editing services**. If you are interested, please [reach out](mailto:aemonten@gmail.com).
