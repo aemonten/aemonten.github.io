@@ -7,8 +7,8 @@ main:
     url: https://molbiohut.wordpress.com/
     newtab: true
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Home"
+    url: /about/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
