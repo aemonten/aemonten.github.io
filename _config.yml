@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alejandro Montenegro-Montero"
+title                    : "Alejandro Montenegro-Montero, Ph.D."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Alejandro Montenegro-Montero, Ph.D."
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Molecular Biologist, Editor"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.cl/citations?user=PiMdG1EAAAAJ&hl=en"
-  email            :
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=montenegro-montero"
+  googlescholar    : "https://scholar.google.com/citations?user=PiMdG1EAAAAJ&hl=en"
+  email            : "aemonten@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "aemonten"
   vine             :
   weibo            :
   xing             :
