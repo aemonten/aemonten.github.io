@@ -1,14 +1,14 @@
 # main links links
 main:
+  - title: "Home"
+    url: /about/
+    
   - title: "Publications"
     url: /publications/
 
   - title: "Blog"
     url: https://molbiohut.wordpress.com/
-    newtab: true
-
-  - title: "Home"
-    url: /about/    
+    newtab: true  
     
 #  - title: "Portfolio"
 #    url: /portfolio/
