@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Alejandro Montenegro-Montero, PhD"
-excerpt: "Alejandro Montenegro-Montero, PhD"
+title: "Alejandro Montenegro-Montero, Ph.D."
+excerpt: "Alejandro Montenegro-Montero, Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
