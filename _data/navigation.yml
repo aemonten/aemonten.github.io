@@ -10,9 +10,9 @@ main:
     url: https://molbiohut.wordpress.com/
     newtab: true  
     
-#  - title: "Molecular Biosystems Conference"
-#    url: http://www.molbiosystems.com/
-     newtab: true
+  - title: "Molecular Biosystems Conference"
+    url: http://www.molbiosystems.com/
+    newtab: true
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
