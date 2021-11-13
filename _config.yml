@@ -84,7 +84,7 @@ author:
   name             : "Alejandro Montenegro-Montero, Ph.D."
   avatar           : "profile.png"
   bio              : "Molecular Biologist, Editor"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=montenegro-montero"
   googlescholar    : "https://scholar.google.com/citations?user=PiMdG1EAAAAJ&hl=en"
