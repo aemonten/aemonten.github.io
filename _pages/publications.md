@@ -20,6 +20,7 @@ Here’s a list of my publications. For citation information, please check <a hr
 *EMBO reports (2018) e45731*.
 <br> 
 [[Pubmed]](https://www.ncbi.nlm.nih.gov/pubmed/29650529) [[PDF]](https://drive.google.com/open?id=1_dlLeClfHXwszkylw83_0A1pgenlP9v8) [[Article Altmetrics]](https://www.altmetric.com/details/36739487). <br>Article recommended in [Faculty Opinions](https://facultyopinions.com/prime/733031605)
+<img src="http://drive.google.com/uc?export=view&id=10kmW5Sa1YuG5E1Pgbeas2K_aRZ-VXkZj" width="30">
 <br>
 <br>
 ### 2016
@@ -47,6 +48,7 @@ Here’s a list of my publications. For citation information, please check <a hr
 Weirauch MT, Yang A, Albu M, Cote AG, `Montenegro-Montero A`, Drewe P, Najafabadi HS, Lambert SA, Mann I, Cook K, Zheng H, Goity A, van Bakel H, Lozano JC, Galli M, Lewsey MG, Huang E, Mukherjee T, Chen X, Reece-Hoyes JS, Govindarajan S, Shaulsky G, Walhout AJ, Bouget FY, Ratsch G, Larrondo LF, Ecker JR, Hughes TR.<br>
 *Cell. 2014 Sep 11;158(6):1431-43. <br>*
 [[Pubmed]](http://www.ncbi.nlm.nih.gov/pubmed/25215497) [[PDF]](https://drive.google.com/open?id=1NAWdta6VaxAcL0_k8RScj8chkHl1RxPR) [[Article Altmetrics]](http://www.altmetric.com/details/2675999). <br>Article recommended in [Faculty Opinions](https://facultyopinions.com/prime/718872943)
+<img src="http://drive.google.com/uc?export=view&id=10kmW5Sa1YuG5E1Pgbeas2K_aRZ-VXkZj" width="30">
 <br>
 <br>
 ## Editorials
