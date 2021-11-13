@@ -54,20 +54,20 @@ Weirauch MT, Yang A, Albu M, Cote AG, `Montenegro-Montero A`, Drewe P, Najafabad
 ## Editorials
 
 ### 2019
-Transparency and reproducibility: A step forward. `Montenegro-Montero A`, García‐Basteiro AL.<br>
+**Transparency and reproducibility: A step forward**. `Montenegro-Montero A`, García‐Basteiro AL.<br>
 *Health Sci Rep. 2019; 2:e117.*<br>
 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/30937393/) [[PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hsr2.117) [[Article Altmetrics]](https://wiley.altmetric.com/details/56651035)
 <br>
 <br>
 ### 2017
-Introducing Health Science Reports. `Montenegro-Montero A`, Young C.<br>
+**Introducing Health Science Reports**. `Montenegro-Montero A`, Young C.<br>
 *Health Sci Rep. 2017 Oct 16;1(1):e15.*<br>
 [[Pubmed]](https://www.ncbi.nlm.nih.gov/pubmed/30623034) [[PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hsr2.117) [[Article Altmetrics]](https://wiley.altmetric.com/details/27859626)
 <br>
 <br>
 ## Book Chapters
 ### 2013
-The Neurospora Circadian System: From Genes to Proteins and Back in Less Than 24 hours. `Montenegro-Montero A`, Larrondo LF.<br>
+**The Neurospora Circadian System: From Genes to Proteins and Back in Less Than 24 hours**. `Montenegro-Montero A`, Larrondo LF.<br>
 *Neurospora: Genomics and Molecular Biology. Horizon Scientific Press.*<br>
 [[Book Website]](http://www.horizonpress.com/neurospora) [[PDF]](https://drive.google.com/open?id=1MMB6YCqyFe-HvoMh4Ekp-6Y2p6rC_MPw)
 <br>
