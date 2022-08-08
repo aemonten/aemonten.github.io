@@ -75,7 +75,7 @@ Weirauch MT, Yang A, Albu M, Cote AG, `Montenegro-Montero A`, Drewe P, Najafabad
 ## Other
 ### 2010
 **Yeast Recombinational Cloning**. `Montenegro-Montero A`<br>
-*Lab Times. 3-2010, Pag 66-67.*<br>
+*Lab Times. 3-2010, Pages 66-67.*<br>
 [[PDF]](https://drive.google.com/file/d/15Uy1eKLRDqG-eW_O8Kdi0auIJbYsDXPF/view?usp=sharing)
 <br>
 <br>
