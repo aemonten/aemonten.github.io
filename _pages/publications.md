@@ -69,6 +69,13 @@ Weirauch MT, Yang A, Albu M, Cote AG, `Montenegro-Montero A`, Drewe P, Najafabad
 ### 2013
 **The Neurospora Circadian System: From Genes to Proteins and Back in Less Than 24 hours**. `Montenegro-Montero A`, Larrondo LF.<br>
 *Neurospora: Genomics and Molecular Biology. Horizon Scientific Press.*<br>
-[[Book Website]](http://www.horizonpress.com/neurospora) [[PDF]](https://drive.google.com/open?id=1MMB6YCqyFe-HvoMh4Ekp-6Y2p6rC_MPw)
+[[Book Website]](http://www.horizonpress.com/neurospora) [[PDF]]([https://drive.google.com/open?id=1MMB6YCqyFe-HvoMh4Ekp-6Y2p6rC_MPw](https://drive.google.com/file/d/15Uy1eKLRDqG-eW_O8Kdi0auIJbYsDXPF/view?usp=sharing))
+<br>
+<br>
+## Other
+### 2010
+**Yeast Recombinational Cloning**. `Montenegro-Montero A`<br>
+*Lab Times. 3-2010, Pag 66-67.*<br>
+[[PDF]](https://drive.google.com/file/d/15Uy1eKLRDqG-eW_O8Kdi0auIJbYsDXPF/view?usp=sharing)
 <br>
 <br>
