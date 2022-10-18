@@ -1,11 +1,11 @@
 ---
 permalink: /
+Title: About Me
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About Me
 
 I’m Alejandro Montenegro-Montero, a molecular biologist and Executive Editor at Cold Spring Harbor Laboratory (CSHL) Press. My research was focused on gene expression regulation, specifically, on the characterization of transcriptional regulatory networks in eukaryotes. During my Ph.D., I studied gene regulation in response to stressful conditions, using the filamentous fungus *N. crassa* as a research system. In addition, I focused on how the circadian clock controls daily rhythms in gene expression in this organism.
 
