@@ -10,6 +10,12 @@ Here’s a list of my publications. For citation information, please check <a hr
 
 ## Journal Articles
 
+### 2023
+**Identification of a common secondary mutation in the Neurospora crassa knockout collection conferring a cell fusion-defective phenotype**. `Montenegro-Montero A`, Goity A, Canessa PF, Larrondo LF.<br>
+*Microbiol Spectr. 2023 Aug 25;e0208723*.<br> 
+[[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/37623742) [[PDF]]([https://drive.google.com/open?id=1hVchfO1wly6qZVzIClEs1Sx9t8CQ0AgG](https://drive.google.com/uc?id=1gmNgT9Pk-gmC5W1e8fOEMNGDdrqjQWJZ&export=download)) 
+<br>
+<br>
 ### 2018
 **Neurospora crassa developmental control mediated by the FLB-3 transcription factor**. Boni AC, Ambrósio DL, Cupertino FB, `Montenegro-Montero A`, Virgilio S, Zanolli Freitas F, Corrocher FA, Duarte Gonçalves R, Yang A, Weirauch MT, Hughes TR, Larrondo LF, Bertolini MC.<br>
 *Fungal Biol. 2018 Jun;122(6):570-582*.<br> 
