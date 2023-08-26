@@ -13,7 +13,7 @@ Here’s a list of my publications. For citation information, please check <a hr
 ### 2023
 **Identification of a common secondary mutation in the Neurospora crassa knockout collection conferring a cell fusion-defective phenotype**. `Montenegro-Montero A`, Goity A, Canessa PF, Larrondo LF.<br>
 *Microbiol Spectr. 2023 Aug 25;e0208723*.<br> 
-[[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/37623742) [[PDF]](https://drive.google.com/uc?id=1gmNgT9Pk-gmC5W1e8fOEMNGDdrqjQWJZ&export=download) 
+[[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/37623742) [[PDF]](https://drive.google.com/open?id=1hVchfO1wly6qZVzIClEs1Sx9t8CQ0AgG) 
 <br>
 <br>
 ### 2018
