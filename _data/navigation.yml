@@ -5,23 +5,23 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Home"
+    url: "https://aemonten.github.io/"
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Publications"
+    url:   "https://scholar.google.com/citations?user=PiMdG1EAAAAJ&hl=en"
 
   - title: "Teaching"
-    url: /teaching/    
+    url:     
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: 
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blog"
+    url: "https://molbiohut.wordpress.com/"
     
-  - title: "CV"
-    url: /cv/
+  - title: "Molecular Biosystems Conference"
+    url: "http://www.molbiosystems.com/"
     
   - title: "Guide"
     url: /markdown/
