@@ -15,4 +15,6 @@ As an editor, I led *Health Science Reports*, a general medical journal, as Chie
 
 I’m also the Scientific Chair of the biennial “Molecular Biosystems” Conference on Eukaryotic Gene Regulation & Functional Genomics ([http://www.molbiosystems.com]([http://www.molbiosystems.com])), the leading conference in the field in Latin America.
 
-Lastly, I help researchers by providing manuscript editing services. If you are interested, please reach out.
+Lastly, I help researchers by providing manuscript editing services. If you are interested, please reach out. 
+
+You can find me at aemonten [at] gmail [dot] com. 
