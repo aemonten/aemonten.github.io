@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Molecular Biosystems Random Poster Number Generator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background: #f9f9f9;
+    }
+    .container {
+      max-width: 420px;
+      width: 90%;
+      text-align: center;
+      padding: 1.5em;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 1.6em;
+      margin-bottom: 1em;
+    }
+    select, button {
+      font-size: 1.2em;
+      padding: 0.6em;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      margin-top: 0.8em;
+      width: 100%;
+      max-width: 100%;
+    }
+    button {
+      background: #0073e6;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #005bb5;
+    }
+    .result {
+      font-size: 1.8em;
+      font-weight: bold;
+      margin-top: 1em;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Molecular Biosystems Conference Connections Challenge</h1>
+    <label for="session">Select your session:</label>
+    <select id="session">
+      <option value="odd">Odd numbers (Session 1)</option>
+      <option value="even">Even numbers (Session 2)</option>
+    </select>
+    <button onclick="generateRandom()">Get Poster Number</button>
+    <div class="result" id="result">?</div>
+  </div>
+
+  <script>
+    function generateRandom() {
+      const session = document.getElementById("session").value;
+      const min = 1;
+      const max = 72;
+      let number;
+
+      do {
+        number = Math.floor(Math.random() * (max - min + 1)) + min;
+      } while ((session === "odd" && number % 2 === 0) || 
+               (session === "even" && number % 2 !== 0));
+
+      document.getElementById("result").innerText = "Visit poster #" + number;
+    }
+  </script>
+</body>
+</html>
